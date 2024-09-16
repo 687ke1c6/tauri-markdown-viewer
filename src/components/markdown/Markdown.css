@@ -1,0 +1,9 @@
+.markdown {
+    margin: 0.5rem;
+    pre {
+        code {
+            margin-inline: 2rem;
+            border-radius: 5px;
+        }
+    }
+}
